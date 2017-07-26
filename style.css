@@ -1,7 +1,11 @@
 h1 { 
   font-family: Georiga, serif;
   color: DarkOliveGreen;
-
+}
+h3 {
+  color: gray
+}    
+   
 p {
 font-family: Georgia, serif;
 }
